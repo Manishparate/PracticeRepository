@@ -14,5 +14,8 @@ public class Test {
 		System.out.println("from TL");
 		dev1();
 		tl();
+		dev2();
+	}
+	public static void dev2() {
 	}
 }
