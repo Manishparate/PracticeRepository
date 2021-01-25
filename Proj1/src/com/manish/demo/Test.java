@@ -8,5 +8,9 @@ public class Test {
 		System.out.println("from Dev1");
 		System.out.println("from TL");
 		dev1();
+		dev2();
+	}
+	public static void dev2() {
+		
 	}
 }
