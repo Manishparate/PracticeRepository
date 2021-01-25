@@ -4,9 +4,15 @@ public class Test {
 	public static void dev1() {
 		System.out.println("from dev1");
 	}
+
+	public static void tl() {
+		System.out.println("from dev1");
+	}
+
 	public static void main(String[] args) {
 		System.out.println("from Dev1");
 		System.out.println("from TL");
 		dev1();
+		tl();
 	}
 }
